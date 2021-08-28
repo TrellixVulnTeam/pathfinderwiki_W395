@@ -23,4 +23,5 @@ dist
 .tox
 .vagrant
 .DS_Store
+venv
 
